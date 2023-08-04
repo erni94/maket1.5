@@ -62,7 +62,7 @@ a:hover {
 }
 
 .brands {
-    background-color: #F2F2F2;
+    background-color: #F8F8F8;
 }
 
 .brands__title {
@@ -74,7 +74,6 @@ a:hover {
     text-transform: uppercase;
     color: #7E7E82;
     font-weight: 500;
-    border-top: 1px solid #D9FFF5;
     background: linear-gradient(to right, #F8F8F8 0%, #FFFFFF 100%);
 }
 
@@ -82,7 +81,7 @@ a:hover {
     overflow: hidden;
     max-width: 2800px;
     margin: 0 auto;
-    background-color: #F2F2F2;
+    background-color: #F8F8F8;
     position: relative;
     transition: 1s;
     max-height: 200px;
@@ -123,7 +122,7 @@ a:hover {
 }
 
 .btn__open {
-    background-color: #F2F2F2;
+    background-color: #F8F8F8;
     font-family: 'TT Lakes';
     font-weight: 500;
     font-size: 16px;
